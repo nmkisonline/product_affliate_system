@@ -1,0 +1,11 @@
+.wb-social-media-right-align{
+	text-align: right !important;
+}
+.nav-styling ul li a {
+	color: #333 !important;
+	font-size: 18px;
+}
+.nav-styling ul li a:hover{
+	color: #ff9800 !important;
+}
+.nav-bar-hide
